@@ -1,4 +1,3 @@
-<p align="center">
   ### 👤Hi there! I'm Thalyson 
   <a href="https://www.linkedin.com/in/thalyson-oliveira-4b5548167/">
     <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,7 +8,7 @@
   <a href="#">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a><hr>
-</p>
+
 
 📅 22 anos <br> 
 ℹ️ Técnico em Informática - <a href="https://www.facebook.com/eeepccampelo"/> EEEP César Campelo</a> <br>
