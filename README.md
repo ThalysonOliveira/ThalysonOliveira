@@ -1,1 +1,1 @@
-### Hi there, i'm Thalyson 👋
+### 👦Hi there! I'm Thalyson 
