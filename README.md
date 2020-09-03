@@ -1,7 +1,7 @@
- ### 👤Hi there! I'm Thalyson 
+ ### 👤Hi there! I'm Thalyson <hr>
    <a href="https://www.linkedin.com/in/thalyson-oliveira-4b5548167/">
     <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+  </a> <br><hr>
   
 ℹ️ Técnico em Informática - <a href="https://www.facebook.com/eeepccampelo"/> EEEP César Campelo</a> <br>
 ⌛ Cursando Analise e desenvolvimento de sistemas - <a href="https://portal.estacio.br/?estado=CE"/> Estácio <br>
