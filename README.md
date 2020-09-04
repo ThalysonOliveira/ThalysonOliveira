@@ -13,7 +13,7 @@
 Olá, sou **Thalyson Oliveira**, tenho 21 anos, atualmente cursando **Analise e desenvolvimento de sistemas**
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Falando sobre coisas pessoais:**
 - 👨🏽‍💻 Técnico em Informática
