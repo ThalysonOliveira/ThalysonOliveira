@@ -1,4 +1,4 @@
-### Hey 👋, I'm Thalyson
+### Hey, I'm Thalyson
 
 <a href="https://www.linkedin.com/in/thalyson-oliveira-4b5548167/">
   <img align="left" alt="Thalyson LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
