@@ -10,6 +10,8 @@
 <br />
 <br />
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
 **Sobre min:**
 
 Desenvolvedor Full-stack, atuando com JavaScript, TypeScript, NodeJS, ReactJS e Angular, desenvolvendo interfaces centradas na usabilidade e experiência do usuário, através da criação de layouts responsivos e funcionais e também no consumo de APIs REST e sistemas com arquitetura de microsserviços, efetuando migração de tecnologias legadas para tecnologias mais atuais e para a nuvem.
@@ -27,4 +29,3 @@ Desenvolvedor Full-stack, atuando com JavaScript, TypeScript, NodeJS, ReactJS e 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 ![ThalysonOliveira's github stats](https://github-readme-stats.vercel.app/api?username=thalysonoliveira&show_icons=true&hide_border=true)
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500px" height="200px"/>
