@@ -10,16 +10,11 @@
 <br />
 <br />
 
-Olá, sou **Thalyson Oliveira**, tenho 21 anos, atualmente cursando **Analise e desenvolvimento de sistemas**
-
-
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Falando sobre coisas pessoais:**
-- 👨🏽‍💻 Técnico em Informática
-- 💼 Cursando analise e desenvolvimento de sistemas;
-- 🌱 Atualmente estou estudando desenvolvimento de sistemas com foco em backend
-- 🤔 Meus interesses são aprender novas tecnologias / ajudar as pessoas por meio dessas tecnologias;
+**Sobre min:**
+
+Desenvolvedor Full-stack, atuando com JavaScript, TypeScript, NodeJS, ReactJS e Angular, desenvolvendo interfaces centradas na usabilidade e experiência do usuário, através da criação de layouts responsivos e funcionais e também no consumo de APIs REST e sistemas com arquitetura de microsserviços, efetuando migração de tecnologias legadas para tecnologias mais atuais e para a nuvem.
 
 **Linguagens já utilizadas:**  
 
