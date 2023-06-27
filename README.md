@@ -66,12 +66,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/ThalysonOliveira/ThalysonOliveira/output/snake.svg" alt="Snake animation" />
 
 ###
