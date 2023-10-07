@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full-stack, atuando com JavaScript, TypeScript, NodeJS, ReactJS e Angular, desenvolvendo interfaces centradas na usabilidade e experiência do usuário, através da criação de layouts responsivos e funcionais e também no consumo de APIs REST e sistemas com arquitetura de microsserviços, efetuando migração de tecnologias legadas para tecnologias mais atuais e para a nuvem.</p>
+<p align="left">Passionate about building robust, scalable systems that power the invisible side of applications.</p>
 
 ###
 
